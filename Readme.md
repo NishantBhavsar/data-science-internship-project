@@ -6,23 +6,23 @@
 
 [Full report of this project](final_report.pdf)
 
-1. This is what your original data may look like.** :
+1. This is what your original data may look like.
 
 ![original data](images/original_data.PNG)
 
-2. This is what happened to your data! It looks good now, all handled by this application.**
+2. This is what happened to your data! It looks good now, all handled by this application.
 
 ![cleaned data](images/clean_data.PNG)
 
-3. It can also generate statistical reports automatically.**
+3. It can also generate statistical reports automatically.
 
 ![statistical report](images/report.png)
 
-3. You can see all data cleaning activities and log on the dashboard.**
+3. You can see all data cleaning activities and log on the dashboard.
 
 ![dashboard](images/dashboard.PNG)
 
-4. you can also combine two data sets (files) or even subsets of them just by drag and drop or sql queryusing this data source generator.**
+4. you can also combine two data sets (files) or even subsets of them just by drag and drop or sql queryusing this data source generator.
 
 ![data source](images/data_source.png)
 
