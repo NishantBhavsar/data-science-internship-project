@@ -29,17 +29,12 @@
 
 
 ### Technology used:
-1. __Django Framework__
-...For building the web application.
+1. __Django Framework__ - For building the web application.
 
-2. __Pandas and numpy__
-...For entire ETL and cleaning part.
+2. __Pandas and numpy__ - For entire ETL and cleaning part.
 
-3. __chart.js__
-...For showing Interactive statistical graphs.
+3. __chart.js__ - For showing Interactive statistical graphs.
 
-4. __R__ 
-...For statistical operations on data.
+4. __R__  - For statistical operations on data.
 
-5. __MySQL__
-...For data base of this project and customers database.
+5. __MySQL__ - For data base of this project and customers database.
